@@ -1,0 +1,25 @@
+{
+  "name": "cypress-map-interaction",
+  "version": "1.0.0",
+  "description": "cypress-map-interaction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manolaz/cypress-map-interaction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manolaz/cypress-map-interaction/issues"
+  },
+  "homepage": "https://github.com/manolaz/cypress-map-interaction#readme",
+  "devDependencies": {
+    "cypress": "^8.4.0",
+    "cypress-plugin-snapshots": "^1.4.4",
+    "js-base64": "^2.5.2"
+  }
+}
