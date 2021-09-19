@@ -18,10 +18,10 @@ Details actions:
 
 1/ VISITE the MAP 
 2/ Find CANVAS
-3/ Claculate it center
-4/ Click on the CAAVAS center
-5/ CLICK ,Keep pressing MOVE
-6/ drag to a little top up => (a quarter from TopUp , a quarter from LeftMostborder of the canvas ), LEAVE
+3/ Claculate it CANVAS center
+4/ Click on the center
+5/ mouseDOwn , keep pressing
+6/ MOVE, drag to a little top up => (a quarter from TopUp , a quarter from LeftMostborder of the canvas ), LEAVE
 7/ Click on this point
 8/ find 'Marina Bay Sands Singapore' name content on the PANE 
 
